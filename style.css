@@ -3,10 +3,21 @@ body {
    background-color: #f0f0f0;
 }
 
+.container {
+    text-align: center;
+    margin: auto;
+}
+
 h1 {
    color: blue;
 }
 
 p {
    font-size: 18px;
+}
+
+ul, li {
+    text-align: center;
+    margin: auto;
+    align-items: center;
 }
